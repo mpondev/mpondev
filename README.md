@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Mario Ponce, from Spain
+
+I'm a passionate self-taught fullstack web developer.
 
 <!--
 **mpondev/mpondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
