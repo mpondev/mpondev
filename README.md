@@ -3,7 +3,7 @@
 I'm a passionate self-taught fullstack web developer from Spain.
 
 For more than 20 years I have been the manager of my own import company, but in 2015 I discovered HTML and I couldn't stop: behind it came CSS and JavaScript, Node, MongoDB...
-While I may lack professional experience, my passion for technology along with my thirst for knowledge, has equipped me with a solid foundation in web development principles and practices.
+My passion for technology along with my thirst for knowledge, has equipped me with a solid foundation in web development principles and practices.
 
 <!--
 **mpondev/mpondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
